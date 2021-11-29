@@ -1,4 +1,4 @@
-module goutils
+module github.com/aloeproject/goutils
 
 go 1.15
 
